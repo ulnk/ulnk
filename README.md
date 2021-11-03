@@ -9,9 +9,9 @@ C:\Users\ulnk>node info.js
   "name":"ulnk",
   "occupation":"student",
   "languages":{
-    "javascript":["nodejs", "javascript"],
-    "python":["python3"],
-    "lua":"lua5"
+    "javascript",
+    "python",
+    "lua"
   },
   "learning":"react"
 }
