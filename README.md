@@ -7,4 +7,4 @@ C:\Users\ulnk>node info.js
 ```cmd
 > Occupation: School
 > Current Project: Strife
-> Languages: Python. Lua, Javascript, Visual Basic
+> Languages: Python, Lua, Javascript, Visual Basic
