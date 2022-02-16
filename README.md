@@ -1,2 +1,4 @@
 **https://skid.rocks**
-```Osaka Client```
+```lua
+Osaka Client
+```
