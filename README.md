@@ -1,2 +1,2 @@
 **https://github.com/ulnkos/skidcorddev** <br>
-**https://discord.gg/osakalclient**
+**https://discord.gg/osakaclient**
