@@ -1,4 +1,2 @@
-**https://skid.rocks**
-```lua
-Osaka Client
-```
+**https://github.com/ulnkos/skidcorddev** <br>
+**https://discord.gg/osakalclient**
