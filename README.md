@@ -1,2 +1,2 @@
-**https://github.com/ulnk/skid** <br>
-**https://discord.gg/horion2**
+https://github.com/ulnk/skid <br>
+https://github.com/ulnk/tipmate
